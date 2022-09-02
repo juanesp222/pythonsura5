@@ -1,0 +1,1 @@
+print("viruela del mono")
